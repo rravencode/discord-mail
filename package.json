@@ -1,0 +1,20 @@
+{
+  "name": "mailfrom",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "cls && node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "djs-bot-base": "^1.1.2",
+    "nodemailer": "^6.9.8",
+    "sneaks": "^0.0.1",
+    "utilscord": "^1.6.0",
+    "wio.db": "^4.0.22"
+  }
+}
